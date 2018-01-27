@@ -8,7 +8,13 @@ This project started out as spaghetti code used for simple websites that stored 
   - Set sitewide variables in `/classes/init.php`
   - Set email account in `/classes/Email.php`
 - Create `users` and `images` tables
+    <img src="docs/db2.png" alt="Users Table" width="500">
+
+    <img src="docs/db3.png" alt="Images Table" width="500">
+
 - Set up custom models as MySQL table schema
+    <img src="docs/db1.png" alt="Example Table" width="500">
+
 - Create two PHP files for each model in `/classes` directory
   - Singular file (e.g. MyItem.php)
   - Plural file (e.g. MyItems.php)
@@ -28,4 +34,8 @@ This project started out as spaghetti code used for simple websites that stored 
 
     MyItems::delete(0);
     ```
- 
+
+<img src="docs/portal1.png" alt="Portal Screenshot 1" width="500">
+
+<img src="docs/portal2.png" alt="Portal Screenshot 2" width="500">
+
