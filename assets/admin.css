@@ -1,0 +1,33 @@
+.admin-nav .span12{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.admin-table img {
+  width: 100px;
+}
+.admin-choose-table tbody tr {
+  cursor: pointer;
+}
+.admin-choose-table tbody tr:hover {
+  background-color: green;
+  color: white;
+}
+.admin-back-button {
+  margin-top: 10px;
+  cursor: pointer;
+}
+#newForm .btn img, #editForm .btn img {
+  height: 80px;
+}
+.admin-back-button:hover {
+  text-decoration: underline;
+}
+
+.admin-logo {
+  color: white !important;
+  font-size: 23px;
+  font-weight: bold;
+}
+.input-large {
+  width: 100%;
+}
