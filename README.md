@@ -2,7 +2,7 @@
 
 InferCMS is a PHP content management system that uses MySQL column data types to generate models and administrative functionality.
 
-This project started out as spaghetti code used for simple websites that stored data in MySQL databases, and over the last 5 years slowly started to morph into a basic content management system that is meant to be used as follows:
+This project started out as spaghetti code used for simple websites that stored data in MySQL databases, and over the last few years slowly started to morph into a basic content management system that is meant to be used as follows:
 - Configure site
   - Connect to database in `/classes/DB.php`
   - Set sitewide variables in `/classes/init.php`
