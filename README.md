@@ -8,6 +8,7 @@ This project started out as spaghetti code used for simple websites that stored 
   - Set sitewide variables in `/classes/init.php`
   - Set email account in `/classes/Email.php`
 - Create `users` and `images` tables
+    
     <img src="docs/db2.png" alt="Users Table" width="500">
 
     <img src="docs/db3.png" alt="Images Table" width="500">
